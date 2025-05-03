@@ -1,5 +1,6 @@
 # StanleyMotlow.github.io
-#!DOCTYPE= html
+Stanley Wisner
+!DOCTYPE html
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -12,7 +13,6 @@
       margin: 0;
       padding: 0;
       color: #333;
-      background-color: pink;
     }
     .container {
       max-width: 800px;
@@ -21,7 +21,6 @@
       padding: 20px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
       border-radius: 8px;
-      background color: pink;
     }
     header {
       text-align: center;
@@ -64,16 +63,17 @@ div class="container"
       <p>A little corner dedicated to my beloved dog, Chloe.</p>
     </header>
     <section class="content">
+      <!-- Replace the image source with one of your choosing -->
       <p>Hi, I'm Chloe—a Senior Dog.</p>
       <img src="./IMG_8075.JPG">
       <img src="./IMG_0128.JPG"> 
       <img src="./IMG_8395.JPG">
-      <img src="./IMG_4441.JPG">
+      <img src="./IMG_4441.JPG"
       
     </section>
     <footer>
       <p>&copy; 2025 Chloe's World. All rights reserved.</p>
     </footer>
-
+  </div>
 </body>
 </html>
