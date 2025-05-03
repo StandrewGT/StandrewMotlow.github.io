@@ -11,7 +11,7 @@
       background: pink;
       margin: 0;
       padding: 0;
-      color: #333;
+      color: pink;
     }
     .container {
       max-width: 800px;
@@ -24,7 +24,7 @@
     header {
       text-align: center;
       padding-bottom: 10px;
-      border-bottom: 1px solid #ddd;
+      border-bottom: 1px solid;
     }
     header h1 {
       margin: 0;
@@ -40,6 +40,7 @@
       height: auto;
       margin: auto;
       border-radius: 8px;
+      background color: pink;
     }
     .content p {
       line-height: 1.6;
@@ -48,8 +49,8 @@
     footer {
       text-align: center;
       font-size: 0.9em;
-      color: #777;
-      border-top: 1px solid #ddd;
+      color: pink;
+      border-top: 1px solid;
       padding-top: 10px;
     }
   </style>
