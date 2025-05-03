@@ -78,6 +78,5 @@ div class="container"
     <footer>
       <p>&copy; 2025 Chloe's World. All rights reserved.</p>
     </footer>
-  </div>
-</body>
+  </body>
 </html>
