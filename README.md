@@ -1,5 +1,4 @@
 # StanleyMotlow.github.io
-Stanley Wisner
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,7 +16,7 @@ Stanley Wisner
     .container {
       max-width: 800px;
       margin: 20px auto;
-      background: #fff;
+      background: pink;
       padding: 20px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
       border-radius: 8px;
@@ -66,7 +65,7 @@ Stanley Wisner
       <p>Hi, I'm Chloe—a Senior Dog.</p>
       <p>I am 17 years old and blind, but still going strong!</p>
       <img src="./IMG_8075.JPG">
-      <img src="./IMG_0128.JPG"> 
+      <img src="./IMG_0128.JPG">   
       <img src="./IMG_8395.JPG">
       <img src="./IMG_4441.JPG"
       
