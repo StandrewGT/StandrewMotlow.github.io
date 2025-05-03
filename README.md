@@ -1,5 +1,5 @@
 # StanleyMotlow.github.io
-<!DOCTYPE html>
+#!DOCTYPE= html
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -58,7 +58,7 @@
 </head>
 <body>
  
-<div class="container">
+div class="container"
     <header>
       <h1>Welcome to Chloe's World</h1>
       <p>A little corner dedicated to my beloved dog, Chloe.</p>
