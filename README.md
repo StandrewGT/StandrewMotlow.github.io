@@ -64,7 +64,6 @@ div class="container">
       <p>A little corner dedicated to my beloved dog, Chloe.</p>
     </header>
     <section class="content">
-      <!-- Replace the image source with one of your choosing -->
       <p>Hi, I'm Chloe—a Senior Dog.</p>
       <img src="./IMG_8075.JPG">
       <img src="./IMG_0128.JPG"> 
@@ -78,8 +77,3 @@ div class="container">
 
 </body>
 </html>
-<script>
-    document.addEventListener("DOMContentLoaded", () => {
-        console.log("Welcome to Chloe's World!");
-    });
-</script>
