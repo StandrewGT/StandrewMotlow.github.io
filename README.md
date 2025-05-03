@@ -11,8 +11,7 @@
       background: pink;
       margin: 0;
       padding: 0;
-      color: pink;
-    }
+      }
     .container {
       max-width: 800px;
       margin: 20px auto;
