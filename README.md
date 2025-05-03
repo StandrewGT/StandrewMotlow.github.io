@@ -12,6 +12,7 @@
       margin: 0;
       padding: 0;
       color: #333;
+      background-color: pink;
     }
     .container {
       max-width: 800px;
@@ -20,6 +21,7 @@
       padding: 20px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
       border-radius: 8px;
+      background color: pink;
     }
     header {
       text-align: center;
