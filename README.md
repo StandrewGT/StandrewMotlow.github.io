@@ -8,7 +8,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background: #f9f9f9;
+      background: pink;
       margin: 0;
       padding: 0;
       color: #333;
@@ -75,7 +75,7 @@ div class="container">
     <footer>
       <p>&copy; 2025 Chloe's World. All rights reserved.</p>
     </footer>
-  </div>
+
 </body>
 </html>
 <script>
