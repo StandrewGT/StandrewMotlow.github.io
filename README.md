@@ -1,5 +1,6 @@
 # StanleyMotlow.github.io
-<!DOCTYPE html>
+Stanley Wisner
+!DOCTYPE html
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -12,7 +13,7 @@
       background: pink;
       margin: 0;
       padding: 0;
-      color: Blue;
+      color: pink;
       background color: pink;
     }
     .container {
@@ -27,13 +28,13 @@
     header {
       text-align: center;
       padding-bottom: 10px;
-      border-bottom: 1px solid #ddd;
+      border-bottom: 1px solid blue;
       background color: pink;
     }
     header h1 {
       margin: 0;
       font-size: 2.5em;
-      color: Black;
+      color: blue;
     }
     .content {
       margin: 20px 0;
@@ -53,18 +54,18 @@
     footer {
       text-align: center;
       font-size: 0.9em;
-      color: Black;
-      border-top: 1px solid #ddd;
+      color: black;
+      border-top: 1px solid;
       padding-top: 10px;
     }
   </style>
-</head>
 <body>
  
 div class="container"
     <header>
       <h1>Welcome to Chloe's World</h1>
       <p>A little corner dedicated to my beloved dog, Chloe.</p>
+      <p>Chloe is 17 years old and blind, but still going strong</p>
     </header>
     <section class="content">
       <p>Hi, I'm Chloe—a Senior Dog.</p>
