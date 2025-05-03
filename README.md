@@ -1,5 +1,5 @@
 # StanleyMotlow.github.io
-!DOCTYPE html
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -27,7 +27,7 @@
     header {
       text-align: center;
       padding-bottom: 10px;
-      border-bottom: 1px solid #ddd;
+      border-bottom: 1px solid;
       background color: pink;
     }
     header h1 {
@@ -54,7 +54,7 @@
       text-align: center;
       font-size: 0.9em;
       color: #777;
-      border-top: 1px solid #ddd;
+      border-top: 1px solid;
       padding-top: 10px;
     }
   </style>
