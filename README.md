@@ -13,7 +13,7 @@ Stanley Wisner
       background: pink;
       margin: 0;
       padding: 0;
-      color: pink;
+      color: blue;
       background color: pink;
     }
     .container {
