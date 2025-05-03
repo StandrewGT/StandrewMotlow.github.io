@@ -69,7 +69,7 @@ div class="container">
       <img src="./IMG_8075.JPG">
       <img src="./IMG_0128.JPG"> 
       <img src="./IMG_8395.JPG">
-      <img src="./IMG_4441.JPG"
+      <img src="./IMG_4441.JPG">
       
     </section>
     <footer>
