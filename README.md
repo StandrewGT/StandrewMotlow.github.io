@@ -1,6 +1,6 @@
 # StanleyMotlow.github.io
 Stanley Wisner
-!DOCTYPE html
+<!DOCTYPE=html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -63,8 +63,8 @@ div class="container"
       <p>A little corner dedicated to my beloved dog, Chloe.</p>
     </header>
     <section class="content">
-      <!-- Replace the image source with one of your choosing -->
       <p>Hi, I'm Chloe—a Senior Dog.</p>
+      <p>I am 17 years old and blind, but still going strong!</p>
       <img src="./IMG_8075.JPG">
       <img src="./IMG_0128.JPG"> 
       <img src="./IMG_8395.JPG">
