@@ -12,7 +12,7 @@
       background: pink;
       margin: 0;
       padding: 0;
-      color: pink;
+      color: Blue;
       background color: pink;
     }
     .container {
@@ -33,7 +33,7 @@
     header h1 {
       margin: 0;
       font-size: 2.5em;
-      color: #444;
+      color: Black;
     }
     .content {
       margin: 20px 0;
@@ -53,7 +53,7 @@
     footer {
       text-align: center;
       font-size: 0.9em;
-      color: #777;
+      color: Black;
       border-top: 1px solid #ddd;
       padding-top: 10px;
     }
